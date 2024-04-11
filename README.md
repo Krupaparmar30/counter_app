@@ -1,5 +1,8 @@
-# counter_app
+# counter_app!
 
+<p>
+      <img src="https://github.com/Krupaparmar30/counter_app/assets/149374671/34fd497f-7c4c-4091-8d23-b7fd590f0ddb"width=22% height=35%>
+</p>
 A new Flutter project.
 
 ## Getting Started
